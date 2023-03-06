@@ -1,0 +1,4006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shoppoverse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shoppoverse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shoppoverse.com/collections/men.atom"/>
+  <title>ShoppoVerse</title>
+  <updated>2022-12-09T12:56:00+05:30</updated>
+  <author>
+    <name>ShoppoVerse</name>
+  </author>
+  <entry>
+    <id>https://shoppoverse.com/products/7964662366431</id>
+    <published>2022-12-09T12:56:00+05:30</published>
+    <updated>2022-12-09T12:56:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://shoppoverse.com/products/winter-clothes-for-men-and-women-lovers"/>
+    <title>Winter clothes for men and women lovers</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>shoppoverse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0653/5246/6655/products/1553129491489.jpg?v=1670570760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shoppoverse<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Main fabric composition: polyester (polyester)<br>Content of main fabric component: 90%<br>Fabric Name: Cotton Blend<br>Applicable scene: Leisure<br>Pattern: printed<br>Style details: Print<br>Version: loose</p><p><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/7563b396-c571-4beb-9bc9-efa59b783a46.png" style="max-width:100%;"><br></p><p>1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. <br><br>2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service.<br><br>3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.</p><p><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/f0758abe-ee04-483d-bcc5-2d1ae530b277.jpg" style="max-width:100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/47f2e610-8616-4225-bf63-d44ed8e7d4dd.jpg" style="font-size: 14px; max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/368232e0-cdae-4ace-8da9-4b2e97077d53.jpg" style="font-size: 14px; max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/fc600d2b-73e3-43eb-8e6d-361163ffca40.jpg" style="font-size: 14px; max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/e4a469b7-88b2-447b-9d8a-223dab47aad3.jpg" style="font-size: 14px; max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/56f56a12-f28a-4c7f-9e40-9281cd752997.jpg" style="font-size: 14px; max-width: 100%;"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Black / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Black-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Black-XL</s:sku>
+      <s:grams>359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Black / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Black-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Black-XXXL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Black-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Black / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Black-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Khaki / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Khaki-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Purple / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Purple-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Red-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Pink-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Blue-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Dark Grey / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Dark Grey-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Dark Grey / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Dark Grey-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Orange / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Orange-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Orange / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Orange-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Orange / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Orange-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Green / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Green-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Red / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Red-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-White-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Red / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Red-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Purple / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Purple-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Yellow / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Yellow-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Grey / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Grey-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Yellow / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Yellow-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Blue / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Blue-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Blue-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Blue-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Purple / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Purple-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>White / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-White-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Green / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Green-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Purple / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Purple-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Dark Grey / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Dark Grey-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>White / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-White-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Orange / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Orange-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Green / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Green-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Purple / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Purple-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Blue-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Green / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Green-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Red / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Red-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Orange / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Orange-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Yellow-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Grey / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Grey-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Yellow-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Khaki / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Khaki-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Purple / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Purple-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Yellow-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Orange / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Orange-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>White / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-White-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Blue-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Khaki / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Khaki-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Khaki / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Khaki-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Pink-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Grey / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Grey-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>White / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-White-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Red / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Red-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Green / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Green-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Dark Grey / L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Dark Grey-L</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Pink / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Pink-XXL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-White-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Red / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Red-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Pink-XL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Grey / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Grey-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Khaki / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Khaki-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Dark Grey / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Dark Grey-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Green / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Green-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Pink-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Khaki / S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Khaki-S</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Yellow / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Yellow-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Grey / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Grey-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Light Grey / XXL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Light Grey-XXL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Pink / 3XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Pink-3XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7964662366431</id>
+      <title>Dark Grey / M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CJNSWTWY03828-Dark Grey-M</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoppoverse.com/products/7777555251423</id>
+    <published>2022-06-28T23:01:06+05:30</published>
+    <updated>2022-06-28T23:01:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://shoppoverse.com/products/2022-hoodies-sweatshirt-mens-black-white-hip-hop-punk-pullover-streetwear-casual-fashion-clothes-mens-oversized-korean-harajuku"/>
+    <title>2022 Hoodies Sweatshirt Mens Black White Hip Hop Punk Pullover Streetwear Casual Fashion Clothes Mens Oversized Korean Harajuku</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>shoppoverse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0653/5246/6655/products/H1a1d3ad3354c406fb21a82139512d5b3f.jpg?v=1656437499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shoppoverse<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            20.99 - 29.99
+            <a href="https://shoppoverse.com/products/2022-hoodies-sweatshirt-mens-black-white-hip-hop-punk-pullover-streetwear-casual-fashion-clothes-mens-oversized-korean-harajuku">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>SPECIFICATIONS</h1>
+<p><span>color</span>: <span style="color: #333;">As photoes</span></p>
+<p><span>Type</span>: <span style="color: #333;">LOOSE</span></p>
+<p><span>Thickness</span>: <span style="color: #333;">STANDAR</span></p>
+<p><span>Collar</span>: <span style="color: #333;">O-Neck</span></p>
+<p><span>Clothing Length</span>: <span style="color: #333;">Regular</span></p>
+<p><span>Brand Name</span>: <span style="color: #333;">MISNIKI</span></p>
+<p> </p>
+<div class="detailmodule_html">
+<div class="detail-desc-decorate-richtext">
+<div class="detailmodule_image"><br></div>
+<div class="detailmodule_text-image">
+<p style="font-family: OpenSans; font-size: 20px; font-weight: 900; line-height: 28px; white-space: pre-wrap; color: #000000; margin-bottom: 12px;" class="detail-desc-decorate-title">Pay Attention</p>
+<p style="font-family: OpenSans; font-size: 14px; font-weight: 300; line-height: 20px; white-space: pre-wrap; color: #000000; margin-bottom: 12px;" class="detail-desc-decorate-content">1. This is Asian Size, about 2 size smaller than EU/US size. If you wear EU/US size M, you can select our size XL<br><br>2. As measured by hand,1-3 cm difference is allowed (1cm=0.39inch).<br><br>3. Different computer can display different colors even if it is the same color.please allow reasonable color difference.<br><br>4. Normally we can send your order within 3 days after the payment, If not, please contact us to check the problem.</p>
+<div><img style="margin-bottom: 10px;" class="detail-desc-decorate-image" src="https://ae04.alicdn.com/kf/H446805be1cfd4287a71468073e576bbeM.jpg" slate-data-type="image"></div>
+</div>
+<div class="detailmodule_image"><br></div>
+<div class="detailmodule_image"><br></div>
+<div class="detailmodule_image">
+<img class="detail-desc-decorate-image" src="https://ae04.alicdn.com/kf/H2ffb419885494577855336be7075a5c1V.jpg" slate-data-type="image"><img class="detail-desc-decorate-image" src="https://ae04.alicdn.com/kf/Hb1a61da5c35f410b91719e0289d97bd0J.jpg" slate-data-type="image"><img class="detail-desc-decorate-image" src="https://ae04.alicdn.com/kf/Ha0e8aeb0c18946708bc69f97dde8999bw.jpg" slate-data-type="image">
+</div>
+<div class="detailmodule_image"><br></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / S / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>14:350850#Purple;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / S / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:100014064;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:350850#Purple;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / M / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:361386;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:350850#Purple;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / L / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:361385;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:350850#Purple;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:100014065;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:350850#Purple;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / XXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:4182;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:350850#Purple;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / XXXL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:4183;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:350850#Purple;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / 4XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:200000990;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Pink / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:771#Pink;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Black / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:193#Black;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Yellow / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:173#Yellow;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Blue / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:1254#Blue;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Green / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:365458#Green;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Purple / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:350850#Purple;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Deep Gray / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:691#Deep Gray;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>Light Gray / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004890#Light Gray;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555251423</id>
+      <title>White / 5XL / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:29#White;5:200000991;200007763:201336100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoppoverse.com/products/7777555153119</id>
+    <published>2022-06-28T23:01:06+05:30</published>
+    <updated>2022-06-28T23:01:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://shoppoverse.com/products/mrmt-2022-brand-new-cotton-100-men-s-t-shirt-pure-color-men-t-shirts-o-neck-man-t-shirts-tops-tees-for-male-t-shirt-clothes"/>
+    <title>MRMT 2022 Brand New Cotton 100% Men‘s T-shirt Pure Color Men T Shirts O-neck Man T-shirts Tops Tees For Male T SHIRT Clothes</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>shoppoverse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0653/5246/6655/products/S5356053783e34bbab8922b3a2a1f8d7bx.jpg?v=1656437498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shoppoverse<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            6.99 - 9.99
+            <a href="https://shoppoverse.com/products/mrmt-2022-brand-new-cotton-100-men-s-t-shirt-pure-color-men-t-shirts-o-neck-man-t-shirts-tops-tees-for-male-t-shirt-clothes">(91 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>SPECIFICATIONS</h1><p><span>thickness</span>: <span style="color:#333">ordinary</span></p><p><span>Year/season on sale</span>: <span style="color:#333">2021</span></p><p><span>Whether to hood</span>: <span style="color:#333">No hoodie</span></p><p><span>Type version</span>: <span style="color:#333">Straight cylinder type</span></p><p><span>Tops Type</span>: <span style="color:#333">Tees</span></p><p><span>There are no quality inspection reports</span>: <span style="color:#333">no</span></p><p><span>The type of inventory</span>: <span style="color:#333">Entire bill</span></p><p><span>The number of the goods</span>: <span style="color:#333">020</span></p><p><span>The margin of error</span>: <span style="color:#333">0.1CM-0.2CM</span></p><p><span>Suitable for the season</span>: <span style="color:#333">Summer</span></p><p><span>Style</span>: <span style="color:#333">Casual</span></p><p><span>Sleeve length</span>: <span style="color:#333">Short sleeve</span></p><p><span>Sleeve Length(cm)</span>: <span style="color:#333">Short</span></p><p><span>Size</span>: <span style="color:#333">S,M,L,XL,XXL,XXXL,XXXXL</span></p><p><span>Quality inspection report number</span>: <span style="color:#333">not</span></p><p><span>Print theme</span>: <span style="color:#333">Custom /DIY</span></p><p><span>Pattern Type</span>: <span style="color:#333">Solid</span></p><p><span>Pattern</span>: <span style="color:#333">Solid color</span></p><p><span>Original design source</span>: <span style="color:#333">Yes,</span></p><p><span>Origin</span>: <span style="color:#333">CN(Origin)</span></p><p><span>Neck shape</span>: <span style="color:#333">Round collar</span></p><p><span>Material</span>: <span style="color:#333">Cotton</span></p><p><span>Main fabric composition</span>: <span style="color:#333">Cotton</span></p><p><span>Item Type</span>: <span style="color:#333">Tops</span></p><p><span>Hooded</span>: <span style="color:#333">No</span></p><p><span>Gender</span>: <span style="color:#333">MEN</span></p><p><span>For the crowd</span>: <span style="color:#333">youth</span></p><p><span>Fastest shipping time</span>: <span style="color:#333">1 - 3 days</span></p><p><span>Fabric name</span>: <span style="color:#333">Cotton</span></p><p><span>Fabric Type</span>: <span style="color:#333">Broadcloth</span></p><p><span>Cotton</span>: <span style="color:#333">100%</span></p><p><span>Collar</span>: <span style="color:#333">Round collar</span></p><p><span>Collar</span>: <span style="color:#333">O-Neck</span></p><p><span>Brand Name</span>: <span style="color:#333">MRMT</span></p><p><span>Applicable scenario</span>: <span style="color:#333">Work</span></p><p><span>Applicable Season</span>: <span style="color:#333">Four Seasons</span></p><p><span>Applicable Scene</span>: <span style="color:#333">Casual</span></p>
+<div style="text-align:center" align="center">
+<img src="https://ae01.alicdn.com/kf/Hff26dc5e936742c1b8dfce3ddbcf1233b.jpg?width=761&amp;height=924&amp;hash=1685" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H45dbff0644354c1b958762b5897f4e1dO.jpg?width=950&amp;height=135&amp;hash=1085" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/Hd91fb4b369be45558f2a9f89c9329f3eV.jpg?width=826&amp;height=685&amp;hash=1511" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/Hf3a27b15067f46c7ae81dc2ffb035f431.jpg?width=1080&amp;height=324&amp;hash=1404" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H6c6a031676e34dd28dfad30ba9404b2bV.jpg?width=824&amp;height=127&amp;hash=951" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H67f37f4110cb46de94ec300e10ee45af7.jpg?width=1020&amp;height=1763&amp;hash=2783" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H25c882715f0346809c783bb29cdc9c3dY.jpg?width=950&amp;height=99&amp;hash=1049" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/Hcc22775f80a6448aa3ceab463ca375063.jpg?width=673&amp;height=780&amp;hash=1453" slate-data-type="image"><br><br><img src="https://ae01.alicdn.com/kf/H48586911ed9f455fbc48cbda2d71839dX.jpg?width=790&amp;height=725&amp;hash=1515" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H8e8a305ec0fd44a9a1ece8d7ab47428az.jpg?width=557&amp;height=747&amp;hash=1304" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H43396e7414d048c7bdbe28145fa1e4f3v.jpg?width=786&amp;height=973&amp;hash=1759" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H43fd645691c94763a3c6c9392a00bfcaw.jpg?width=790&amp;height=861&amp;hash=1651" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H7f0e67cf2fb149c080a5a97890e8ec069.jpg?width=1000&amp;height=3188&amp;hash=4188" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H07af17a4357947718ab59596727f714cC.jpg?width=950&amp;height=104&amp;hash=1054" slate-data-type="image"><br><img src="https://ae01.alicdn.com/kf/H38ff19c49c2049fda777278a1edb6465K.jpg?width=782&amp;height=641&amp;hash=1423" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H1732af9473794a74a818a5c5645e350eH.jpg?width=790&amp;height=658&amp;hash=1448" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/He0a5118853004c1191e0873e2f46b209D.jpg?width=790&amp;height=679&amp;hash=1469" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H4d458746ef794c13b50552a7b8eae8226.jpg?width=790&amp;height=664&amp;hash=1454" slate-data-type="image"><br><br><img src="https://ae01.alicdn.com/kf/H424c21d1be1347dca31f2a503d97f5a60.jpg?width=1019&amp;height=710&amp;hash=1729" slate-data-type="image"><br><br><img src="https://ae01.alicdn.com/kf/H719eae73528a4c81bc67591bf31b1333p.jpg?width=1000&amp;height=101&amp;hash=1101" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/Hf73fc604df2146a2895857ef7999a541d.jpg?width=1603&amp;height=627&amp;hash=2230" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/Hd43e829334c247cda5b31cd1213b10bfN.jpg?width=1000&amp;height=101&amp;hash=1101" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H747dc34f53e94477b728216b9f59cdff2.jpg?width=950&amp;height=522&amp;hash=1472" slate-data-type="image">
+</div><p><br></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Red / S</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>14:771#Red;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>White / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:193#White;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Black / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:173#Black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:1254#Pink;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:365458#Blue;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Lake blue / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350850#Lake blue;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Orange / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:691#Orange;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Fruit green / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004890#Fruit green;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:175#Yellow;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Rose red / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004889#Rose red;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200002130#Gray;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Army green / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200001438#Army green;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Grass green / S</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350852#Grass green;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Red / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:771#Red;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>White / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:193#White;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Black / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:173#Black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:1254#Pink;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:365458#Blue;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Lake blue / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350850#Lake blue;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Orange / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:691#Orange;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Fruit green / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004890#Fruit green;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:175#Yellow;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Rose red / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004889#Rose red;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200002130#Gray;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Army green / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200001438#Army green;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Grass green / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350852#Grass green;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Red / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:771#Red;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>White / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:193#White;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Black / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:173#Black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:1254#Pink;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:365458#Blue;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Lake blue / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350850#Lake blue;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Orange / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:691#Orange;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Fruit green / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004890#Fruit green;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:175#Yellow;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Rose red / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004889#Rose red;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200002130#Gray;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Army green / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200001438#Army green;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Grass green / L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350852#Grass green;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:771#Red;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>White / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:193#White;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:173#Black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:1254#Pink;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:365458#Blue;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Lake blue / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350850#Lake blue;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Orange / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:691#Orange;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Fruit green / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004890#Fruit green;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Yellow / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:175#Yellow;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Rose red / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004889#Rose red;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200002130#Gray;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Army green / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200001438#Army green;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Grass green / XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350852#Grass green;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Red / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:771#Red;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:193#White;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:173#Black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Pink / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:1254#Pink;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:365458#Blue;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Lake blue / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350850#Lake blue;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Orange / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:691#Orange;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Fruit green / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004890#Fruit green;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Yellow / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:175#Yellow;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Rose red / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004889#Rose red;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Gray / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200002130#Gray;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Army green / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200001438#Army green;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Grass green / XXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350852#Grass green;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Red / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:771#Red;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>White / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:193#White;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:173#Black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Pink / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:1254#Pink;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Blue / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:365458#Blue;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Lake blue / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350850#Lake blue;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Orange / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:691#Orange;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Fruit green / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004890#Fruit green;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Yellow / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:175#Yellow;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Rose red / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004889#Rose red;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Gray / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200002130#Gray;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Army green / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200001438#Army green;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Grass green / XXXL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350852#Grass green;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Red / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:771#Red;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:193#White;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:173#Black;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Pink / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:1254#Pink;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Blue / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:365458#Blue;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Lake blue / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350850#Lake blue;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Orange / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:691#Orange;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Fruit green / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004890#Fruit green;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Yellow / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:175#Yellow;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Rose red / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200004889#Rose red;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Gray / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200002130#Gray;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Army green / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:200001438#Army green;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555153119</id>
+      <title>Grass green / 4XL</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14:350852#Grass green;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoppoverse.com/products/7777555120351</id>
+    <published>2022-06-28T23:01:06+05:30</published>
+    <updated>2022-06-28T23:01:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://shoppoverse.com/products/plus-size-5xl-6xl-7xl-men-solid-color-business-shirt-fashion-casual-slim-white-long-sleeve-shirt-male-brand-clothes"/>
+    <title>Plus Size 5XL 6XL 7XL Men Solid Color Business Shirt Fashion Casual Slim White Long Sleeve Shirt Male Brand Clothes</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>shoppoverse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0653/5246/6655/products/Hff014705e3c14db0a2f343ed6c38e1d8L.jpg?v=1656437501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shoppoverse<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            23.99 - 27.99
+            <a href="https://shoppoverse.com/products/plus-size-5xl-6xl-7xl-men-solid-color-business-shirt-fashion-casual-slim-white-long-sleeve-shirt-male-brand-clothes">(77 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>SPECIFICATIONS</h1><p><span>Style</span>: <span style="color:#333">Smart Casual</span></p><p><span>Sleeve Style</span>: <span style="color:#333">Regular</span></p><p><span>Sleeve Length(cm)</span>: <span style="color:#333">Full</span></p><p><span>Shirts Type</span>: <span style="color:#333">Dress Shirts</span></p><p><span>Pattern Type</span>: <span style="color:#333">Solid</span></p><p><span>Origin</span>: <span style="color:#333">CN(Origin)</span></p><p><span>Model Number</span>: <span style="color:#333">56180723</span></p><p><span>Material</span>: <span style="color:#333">Polyester</span></p><p><span>Material</span>: <span style="color:#333">Cotton</span></p><p><span>Item Type</span>: <span style="color:#333">Shirts</span></p><p><span>Gender</span>: <span style="color:#333">MEN</span></p><p><span>Fabric Type</span>: <span style="color:#333">Broadcloth</span></p><p><span>Collar</span>: <span style="color:#333">Square Collar</span></p><p><span>Closure Type</span>: <span style="color:#333">Single Breasted</span></p><p><span>Brand Name</span>: <span style="color:#333">Brother Wang</span></p><p><span>Applicable Season</span>: <span style="color:#333">Spring and Autumn</span></p><p><span>Applicable Scene</span>: <span style="color:#333">Business</span></p>
+<div class="detailmodule_html"><div class="detail-desc-decorate-richtext">
+<h1><img width="790" height="546" src="https://ae01.alicdn.com/kf/H957acb0eaa9f402caaf124d5464c1d32a.jpg" slate-data-type="image"></h1>
+<h1>Product Description</h1>
+<div>Size: S,M,L,XL,XXL,3XL,4XL,5XL,6XL,7XL,8XL<br>Fabric composition: 40% cotton, 60% polyester fiber<br>Scene: Everyday, Business casual<br>Version: Slim<br>For the season: Spring, autumn<br>Thickness: Medium section<br>Elasticity: None</div>
+<p style="text-align:left;margin:0px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px" align="left"><img src="https://ae01.alicdn.com/kf/Hc102bd8045d242cab42256e2e3d3985ce.jpg?width=790&amp;height=1015&amp;hash=1805" slate-data-type="image"></p>
+<div>Unit of measurement: cm</div>
+<div>1. The size is Asian size, smaller than US, UK, Australia, EU size. Please tell us your height and weight, and we suggest a suitable size for you.</div>
+<div>2. The data is manually tiled measurement, there is an error of 1-3cm, please understand.</div>
+<div>3. Due to different shooting light and different monitor resolutions, slight chromatic aberration will be caused. Please take the actual color of the goods as the standard.</div>
+<div>4.Recommendations are for reference only,</div>
+<div>According to most of the wearing size recommendations, please refer to the final size based on your personal dressing habits and size chart measurement.</div>
+<div> </div>
+<div> </div>
+<h1>Colors</h1>
+<p style="text-align:left;margin:0px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px" align="left"><img src="https://ae01.alicdn.com/kf/He3bfb925e8fa4af6ab81af07a890c6d6l.jpg?width=790&amp;height=1151&amp;hash=1941" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H50971ac364a44d97a550df8d112cee35l.jpg?width=790&amp;height=1172&amp;hash=1962" slate-data-type="image"></p>
+<h1 style="text-align:left;margin:0px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px" align="left">Product show</h1>
+<p style="text-align:left;margin:0px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px" align="left"><br><img src="https://ae01.alicdn.com/kf/H5c5402a7508345dc8b357edf671bcf88o.jpg?width=790&amp;height=810&amp;hash=1600" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H33a2a6cfd7e34df5952749f135fe2cca6.jpg?width=790&amp;height=790&amp;hash=1580" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H218b5d48cb4847c8b80fa2a9e1bf8643b.jpg?width=790&amp;height=1125&amp;hash=1915" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/Hf5f71480221d42caa4e78845775ef5a8Y.jpg?width=790&amp;height=1676&amp;hash=2466" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/Hbfd8bece387e4c199c3b420f65ba5617Z.jpg?width=790&amp;height=1680&amp;hash=2470" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H6f7ed8081b664bba99494640a2b12de4y.jpg?width=790&amp;height=1693&amp;hash=2483" slate-data-type="image"></p>
+<h1 style="text-align:left;margin:0px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px" align="left">Details</h1>
+<p style="text-align:left;margin:0px;margin-bottom:0px;margin-top:0px;margin-left:0px;margin-right:0px" align="left"><img src="https://ae01.alicdn.com/kf/H66a82c5af4ea400f88d16d6981c2d525y.jpg?width=790&amp;height=567&amp;hash=1357" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H1b24a79be6a04d5998e81929e6d5cebfI.jpg?width=790&amp;height=1112&amp;hash=1902" slate-data-type="image"><img src="https://ae01.alicdn.com/kf/H72b4271527cd4ce3b0b59cb7863ce83ej.jpg?width=790&amp;height=1121&amp;hash=1911" slate-data-type="image"></p>
+</div></div><p><br></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / S (38-45kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:193;5:100014064#S (38-45kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / S (38-45kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:173#Dark Blue;5:100014064#S (38-45kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / S (38-45kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1254#Light Blue;5:100014064#S (38-45kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / S (38-45kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:100014064#S (38-45kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / S (38-45kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:100014064#S (38-45kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / S (38-45kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:29;5:100014064#S (38-45kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / S (38-45kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:100014064#S (38-45kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / M (45-53kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:193;5:361386#M (45-53kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / M (45-53kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:173#Dark Blue;5:361386#M (45-53kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / M (45-53kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1254#Light Blue;5:361386#M (45-53kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / M (45-53kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:361386#M (45-53kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / M (45-53kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:361386#M (45-53kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / M (45-53kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:29;5:361386#M (45-53kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / M (45-53kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:361386#M (45-53kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / L (53-58kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:193;5:361385#L (53-58kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / L (53-58kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:173#Dark Blue;5:361385#L (53-58kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / L (53-58kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1254#Light Blue;5:361385#L (53-58kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / L (53-58kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:361385#L (53-58kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / L (53-58kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:361385#L (53-58kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / L (53-58kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:29;5:361385#L (53-58kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / L (53-58kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:361385#L (53-58kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / XL (58-65kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:193;5:100014065#XL (58-65kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / XL (58-65kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:173#Dark Blue;5:100014065#XL (58-65kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / XL (58-65kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1254#Light Blue;5:100014065#XL (58-65kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / XL (58-65kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:100014065#XL (58-65kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / XL (58-65kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:100014065#XL (58-65kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / XL (58-65kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:29;5:100014065#XL (58-65kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / XL (58-65kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:100014065#XL (58-65kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / XXL (65-72kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:193;5:4182#XXL (65-72kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / XXL (65-72kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:173#Dark Blue;5:4182#XXL (65-72kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / XXL (65-72kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1254#Light Blue;5:4182#XXL (65-72kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / XXL (65-72kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:4182#XXL (65-72kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / XXL (65-72kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:4182#XXL (65-72kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / XXL (65-72kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:29;5:4182#XXL (65-72kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / XXL (65-72kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:4182#XXL (65-72kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / 3XL (72-80kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:193;5:4183#3XL (72-80kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / 3XL (72-80kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:173#Dark Blue;5:4183#3XL (72-80kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / 3XL (72-80kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1254#Light Blue;5:4183#3XL (72-80kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / 3XL (72-80kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:4183#3XL (72-80kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / 3XL (72-80kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:4183#3XL (72-80kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / 3XL (72-80kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:29;5:4183#3XL (72-80kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / 3XL (72-80kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:4183#3XL (72-80kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / 4XL (80-88kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:193;5:200000990#4XL (80-88kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / 4XL (80-88kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:173#Dark Blue;5:200000990#4XL (80-88kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / 4XL (80-88kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:1254#Light Blue;5:200000990#4XL (80-88kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / 4XL (80-88kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:200000990#4XL (80-88kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / 4XL (80-88kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:200000990#4XL (80-88kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / 4XL (80-88kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:29;5:200000990#4XL (80-88kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / 4XL (80-88kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:200000990#4XL (80-88kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / 5XL (88-96kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:193;5:200000991#5XL (88-96kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / 5XL (88-96kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:173#Dark Blue;5:200000991#5XL (88-96kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / 5XL (88-96kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:1254#Light Blue;5:200000991#5XL (88-96kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / 5XL (88-96kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:200000991#5XL (88-96kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / 5XL (88-96kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:200000991#5XL (88-96kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / 5XL (88-96kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:29;5:200000991#5XL (88-96kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / 5XL (88-96kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:200000991#5XL (88-96kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / 6XL (96-105kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:193;5:200005259#6XL (96-105kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / 6XL (96-105kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:173#Dark Blue;5:200005259#6XL (96-105kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / 6XL (96-105kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:1254#Light Blue;5:200005259#6XL (96-105kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / 6XL (96-105kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:200005259#6XL (96-105kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / 6XL (96-105kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:200005259#6XL (96-105kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / 6XL (96-105kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:29;5:200005259#6XL (96-105kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / 6XL (96-105kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:200005259#6XL (96-105kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / 7XL (105-115kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:193;5:200661035#7XL (105-115kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / 7XL (105-115kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:173#Dark Blue;5:200661035#7XL (105-115kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / 7XL (105-115kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:1254#Light Blue;5:200661035#7XL (105-115kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / 7XL (105-115kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:200661035#7XL (105-115kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / 7XL (105-115kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:200661035#7XL (105-115kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / 7XL (105-115kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:29;5:200661035#7XL (105-115kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / 7XL (105-115kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:200661035#7XL (105-115kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Black / 8XL (115-125kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:193;5:200661036#8XL (115-125kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Dark Blue / 8XL (115-125kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:173#Dark Blue;5:200661036#8XL (115-125kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Light Blue / 8XL (115-125kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:1254#Light Blue;5:200661036#8XL (115-125kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Pink / 8XL (115-125kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:1052;5:200661036#8XL (115-125kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Wine Red / 8XL (115-125kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:10#Wine Red;5:200661036#8XL (115-125kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>white / 8XL (115-125kg)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>14:29;5:200661036#8XL (115-125kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777555120351</id>
+      <title>Lake Blue / 8XL (115-125kg)</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:203008818#Lake Blue;5:200661036#8XL (115-125kg)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoppoverse.com/products/7777554956511</id>
+    <published>2022-06-28T23:01:05+05:30</published>
+    <updated>2022-06-28T23:01:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://shoppoverse.com/products/covrlge-polo-shirt-men-summer-stritching-men-39-s-shorts-sleeve-polo-business-clothes-luxury-men-tee-shirt-brand-polos-mtp129"/>
+    <title>Covrlge Polo Shirt Men Summer Stritching Men&amp;#39;s Shorts Sleeve Polo Business Clothes Luxury Men Tee Shirt Brand Polos MTP129</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>shoppoverse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0653/5246/6655/products/Sd6835c92702347919c97b8651e0974189.jpg?v=1656437498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shoppoverse<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            11.99 - 19.99
+            <a href="https://shoppoverse.com/products/covrlge-polo-shirt-men-summer-stritching-men-39-s-shorts-sleeve-polo-business-clothes-luxury-men-tee-shirt-brand-polos-mtp129">(90 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>SPECIFICATIONS</h1><p><span>Type</span>: <span style="color:#333">Regular</span></p><p><span>Tops type</span>: <span style="color:#333">polos</span></p><p><span>Tops Type</span>: <span style="color:#333">Polos</span></p><p><span>Style</span>: <span style="color:#333">Casual</span></p><p><span>Sleeve Length(cm)</span>: <span style="color:#333">Short</span></p><p><span>Size</span>: <span style="color:#333">Asian size M,L,XL,XXL,XXXL,4XL</span></p><p><span>Season</span>: <span style="color:#333">Spring,summer,autumn</span></p><p><span>Related Categories</span>: <span style="color:#333">Men's Clothing , Accessories ,Tops &amp; Tees , Polo</span></p><p><span>Pattern Type</span>: <span style="color:#333">Patchwork</span></p><p><span>Origin</span>: <span style="color:#333">CN(Origin)</span></p><p><span>Material</span>: <span style="color:#333">Polyester</span></p><p><span>Gender</span>: <span style="color:#333">men,male,man</span></p><p><span>Gender</span>: <span style="color:#333">MEN</span></p><p><span>Feature</span>: <span style="color:#333">Breathable</span></p><p><span>Description 4</span>: <span style="color:#333">short tops,polo wear</span></p><p><span>Description 3</span>: <span style="color:#333">male fashion casual,luxury men</span></p><p><span>Description 2</span>: <span style="color:#333">mens short sleeve polo shirts,polo men</span></p><p><span>Description 1</span>: <span style="color:#333">mens polo shirts fashion,male polo shirt</span></p><p><span>Color Style</span>: <span style="color:#333">Contrast Color</span></p><p><span>Color</span>: <span style="color:#333">10 colors</span></p><p><span>CN</span>: <span style="color:#333">Zhejiang</span></p><p><span>Brand Name</span>: <span style="color:#333">covrlge</span></p><p><span>Applicable Season</span>: <span style="color:#333">summer</span></p><p><span>Applicable Scene</span>: <span style="color:#333">Daily</span></p>
+<div class="detailmodule_html"><div class="detail-desc-decorate-richtext">
+<div>
+<div> </div>
+<div class="detailmodule_dynamic"><widget data-widget-type="customText" id="22747085" type="custom"></widget></div>
+<div class="detailmodule_html"><div class="detail-desc-decorate-richtext"></div></div>
+</div>
+<div>
+<div> </div>
+<div class="detailmodule_dynamic"><widget data-widget-type="customText" id="22947071" type="custom"></widget></div>
+<div class="detailmodule_html"><div class="detail-desc-decorate-richtext"></div></div>
+</div>
+<div>
+<p style="font-family:OpenSans;font-size:14px;font-weight:300;line-height:20px;white-space:pre-wrap;color:rgb(0, 0, 0);margin-bottom:12px" class="detail-desc-decorate-content">Welcome to our store<br><br>Friendly Reminder:<br>1. Asian size,<span style="background-color:rgb(255, 255, 255);color:rgb(255, 0, 0);font-size:18px;font-family:Arial, Helvetica, sans-serif">usually 1-3 size smaller than US/EU size</span>.<br><br>2.All dimensions are measured by hand, there may be 2-3 cm deviations.<br><br><br>Note:If you don't know how to choose the size,please feel free to contact us.</p>
+<table style="border-collapse:collapse;border:1px solid rgb(221, 221, 221);width:633px" width="633" border="0" cellpadding="0" cellspacing="0">
+<colgroup>
+<col width="62">
+<col width="49">
+<col width="96">
+<col width="83">
+</colgroup>
+<tbody>
+<tr height="18" style="height:18"><td style="width:477pt;height:27pt" class="xl76" width="633" height="36" rowspan="2" colspan="11"><p>Size Chart</p></td></tr>
+<tr height="18" style="height:18"></tr>
+<tr height="21" style="height:21">
+<td style="width:47pt;height:31.5pt" class="xl83" width="62" height="42" rowspan="2"><p>Order<br>Size</p></td>
+<td class="xl84" colspan="2"><p>Shoulder</p></td>
+<td class="xl84" colspan="2"><p>Chest</p></td>
+<td class="xl84" colspan="2"><p>Length</p></td>
+<td class="xl86" colspan="2"><p>Sleeve</p></td>
+<td style="width:72pt" class="xl87" width="96" rowspan="2"><p>Height Suggestion (cm)</p></td>
+<td style="width:62pt" class="xl83" width="83" rowspan="2"><p>WeightSuggestion(kg)</p></td>
+</tr>
+<tr height="21" style="height:21">
+<td style="height:15.75pt" class="xl72" height="21"><p>cm</p></td>
+<td class="xl69"><p>inch</p></td>
+<td class="xl72"><p>cm</p></td>
+<td class="xl69"><p><br></p></td>
+<td class="xl72"><p>cm</p></td>
+<td class="xl69"><p>inch</p></td>
+<td class="xl67"><p>cm</p></td>
+<td class="xl67"><p>inch</p></td>
+</tr>
+<tr height="21" style="height:21">
+<td style="height:15.75pt" class="xl72" height="21"><p>M</p></td>
+<td class="xl70"><p>45</p></td>
+<td class="xl66"><p>17.55</p></td>
+<td class="xl70"><p>98</p></td>
+<td class="xl66"><p><br></p></td>
+<td class="xl70"><p>68</p></td>
+<td class="xl66"><p>26.52</p></td>
+<td class="xl70"><p>21</p></td>
+<td class="xl66"><p>8.19</p></td>
+<td class="xl74"><p>160-170</p></td>
+<td class="xl89"><p>55-65</p></td>
+</tr>
+<tr height="21" style="height:21">
+<td style="height:15.75pt" class="xl72" height="21"><p>L</p></td>
+<td class="xl64"><p>47</p></td>
+<td class="xl65"><p>18.33</p></td>
+<td class="xl64"><p>100</p></td>
+<td class="xl65"><p><br></p></td>
+<td class="xl64"><p>69</p></td>
+<td class="xl65"><p>26.91</p></td>
+<td class="xl64"><p>22</p></td>
+<td class="xl65"><p>8.58</p></td>
+<td class="xl74"><p>165-175</p></td>
+<td class="xl89"><p>65-75</p></td>
+</tr>
+<tr height="21" style="height:21">
+<td style="height:15.75pt" class="xl72" height="21"><p>XL</p></td>
+<td class="xl70"><p>49</p></td>
+<td class="xl66"><p>19.11</p></td>
+<td class="xl70"><p>104</p></td>
+<td class="xl66"><p><br></p></td>
+<td class="xl70"><p>70</p></td>
+<td class="xl66"><p>27.30</p></td>
+<td class="xl70"><p>23</p></td>
+<td class="xl66"><p>8.97</p></td>
+<td class="xl74"><p>175-180</p></td>
+<td class="xl89"><p>75-80</p></td>
+</tr>
+<tr height="21" style="height:21">
+<td style="height:15.75pt" class="xl72" height="21"><p>XXL</p></td>
+<td class="xl70"><p>51</p></td>
+<td class="xl65"><p>19.89</p></td>
+<td class="xl64"><p>110</p></td>
+<td class="xl65"><p><br></p></td>
+<td class="xl64"><p>71</p></td>
+<td class="xl65"><p>27.69</p></td>
+<td class="xl64"><p>24</p></td>
+<td class="xl65"><p>9.36</p></td>
+<td class="xl74"><p>180-185</p></td>
+<td class="xl89"><p>80-85</p></td>
+</tr>
+<tr height="21" style="height:21">
+<td style="height:15.75pt" class="xl72" height="21"><p>XXXL</p></td>
+<td class="xl70"><p>53</p></td>
+<td class="xl65"><p>20.67</p></td>
+<td class="xl64"><p>118</p></td>
+<td class="xl65"><p><br></p></td>
+<td class="xl64"><p>72</p></td>
+<td class="xl65"><p>28.08</p></td>
+<td class="xl64"><p>25</p></td>
+<td class="xl65"><p>9.75</p></td>
+<td class="xl74"><p>180-185</p></td>
+<td class="xl89"><p>85-90</p></td>
+</tr>
+<tr height="21" style="height:21">
+<td style="height:15.75pt" class="xl63" height="21"><p>XXXXL</p></td>
+<td class="xl71"><p>55</p></td>
+<td class="xl68"><p>21.45</p></td>
+<td class="xl71"><p>124</p></td>
+<td class="xl68"><p><br></p></td>
+<td class="xl71"><p>73</p></td>
+<td class="xl68"><p>28.47</p></td>
+<td class="xl71"><p>26</p></td>
+<td class="xl68"><p>10.14</p></td>
+<td class="xl75"><p>180-190</p></td>
+<td class="xl73"><p>90-95</p></td>
+</tr>
+</tbody>
+</table>
+<div><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1di3DQXXXXXcnXFXXq6xXFXXX5.jpg?width=700&amp;height=369&amp;hash=1069" slate-data-type="image"></div>
+</div>
+<div><br></div>
+<div><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/Heb0a8fd2e173465d85dbd33ea52128far.jpg?width=800&amp;height=300&amp;hash=1100" slate-data-type="image"></div>
+<div>
+<br><br>
+</div>
+<div>
+<img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1P3yEbBWD3KVjSZKPq6yp7FXav.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1pQ5Bbv1H3KVjSZFBq6zSMXXax.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1ZgaMbrys3KVjSZFnq6xFzpXat.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1vSmCbA9E3KVjSZFGq6A19XXa3.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1yYmDbEuF3KVjSZK9q6zVtXXan.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image">
+</div>
+<div><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/Hb454ffbb74424b1c9272eb5b285c5dbcs.jpg?width=800&amp;height=300&amp;hash=1100" slate-data-type="image"></div>
+<p><img width="800" height="800" src="https://ae01.alicdn.com/kf/He4396dd7fdb746ba8f2bb0bb231f7d43y.jpg" slate-data-type="image"></p>
+<div>
+<img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1C5KDbCSD3KVjSZFKq6z10VXav.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB113GCbEWF3KVjSZPhq6xclXXan.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1efOJbBCw3KVjSZR0q6zcUpXa5.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1dXiFbCWD3KVjSZSgq6ACxVXab.jpg?width=800&amp;height=800&amp;hash=1600" slate-data-type="image"><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB12o2Cd.GF3KVjSZFvq6z_nXXaC.jpg?width=1080&amp;height=1440&amp;hash=2520" slate-data-type="image">
+</div>
+<div><img style="margin-bottom:10px" class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/HTB1hNhgXgFY.1VjSZFqq6ydbXXaM.jpg?width=800&amp;height=1171&amp;hash=1971" slate-data-type="image"></div>
+<div><br></div>
+</div></div><p><br></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / XXS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / XXS</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>14:350852#Orange;5:4181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / XS</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:100014066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:771#White;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgrey / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:193#Darkgrey;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Darkgreyblack / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:173#Darkgreyblack;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Lightgrey / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:365458#Lightgrey;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navywhite / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350850#Navywhite;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Navyyellow / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:691#Navyyellow;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Redwine / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:175#Redwine;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackblue / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200002130#Blackblue;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Blackred / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200001438#Blackred;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777554956511</id>
+      <title>Orange / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:350852#Orange;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoppoverse.com/products/7777541062879</id>
+    <published>2022-06-28T22:53:40+05:30</published>
+    <updated>2022-06-28T22:53:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://shoppoverse.com/products/2021-new-hot-hoodies-winter-women-thick-hoodie-fleece-long-sleeve-sweatshirt-hip-hop-hoodie-pocket-cheap-cosply-clothes"/>
+    <title>2021 new Hot  Hoodies Winter Women Thick Hoodie Fleece Long Sleeve Sweatshirt Hip Hop Hoodie Pocket Cheap COSPLY Clothes</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>shoppoverse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0653/5246/6655/products/He3ee058176fa4d6cbc23a1af331afacct.jpg?v=1656437028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shoppoverse<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            19.99 - 21.99
+            <a href="https://shoppoverse.com/products/2021-new-hot-hoodies-winter-women-thick-hoodie-fleece-long-sleeve-sweatshirt-hip-hop-hoodie-pocket-cheap-cosply-clothes">(60 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>SPECIFICATIONS</h1>
+<p> </p>
+<div class="detailmodule_text-image">
+<img class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/Hc4eaf8c3b1384552b500756f7f9755caX.png" slate-data-type="image"><img class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/H59bb06e98f2041e593c8d665f69b5377c.png" slate-data-type="image"><img class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/H353bfba5fea84842b8ab4213dc07328f7.png" slate-data-type="image"><img class="detail-desc-decorate-image" src="https://ae01.alicdn.com/kf/Hbe5677c888f9436c81a7d879b2c82e3aO.png" slate-data-type="image">
+</div>
+<div class="detailmodule_text-image"><br></div>
+<div class="detailmodule_text">
+<p style="font-family: OpenSans; font-size: 20px; font-weight: 900; line-height: 28px; white-space: pre-wrap; color: #000000; margin-bottom: 12px;" class="detail-desc-decorate-title"> </p>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>khakiHH / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:771#khakiHH;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blackBB / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:193#blackBB;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>orangeBB / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:691#orangeBB;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>navyBB / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004890#navyBB;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>whiteHH / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:175#whiteHH;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>yellowHH / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14:200004889#yellowHH;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>brownBB / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200001438#brownBB;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blueBB / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:350852#blueBB;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>greenBB / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:496#greenBB;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>pinkHH / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004891#pinkHH;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>khakiHH / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:771#khakiHH;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blackBB / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:193#blackBB;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>orangeBB / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:691#orangeBB;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>navyBB / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004890#navyBB;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>whiteHH / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:175#whiteHH;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>yellowHH / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004889#yellowHH;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>brownBB / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200001438#brownBB;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blueBB / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:350852#blueBB;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>greenBB / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:496#greenBB;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>pinkHH / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004891#pinkHH;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>khakiHH / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:771#khakiHH;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blackBB / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:193#blackBB;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>orangeBB / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:691#orangeBB;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>navyBB / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004890#navyBB;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>whiteHH / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:175#whiteHH;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>yellowHH / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004889#yellowHH;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>brownBB / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200001438#brownBB;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blueBB / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:350852#blueBB;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>greenBB / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:496#greenBB;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>pinkHH / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004891#pinkHH;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>khakiHH / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:771#khakiHH;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blackBB / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:193#blackBB;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>orangeBB / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:691#orangeBB;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>navyBB / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004890#navyBB;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>whiteHH / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:175#whiteHH;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>yellowHH / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004889#yellowHH;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>brownBB / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200001438#brownBB;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blueBB / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:350852#blueBB;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>greenBB / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:496#greenBB;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>pinkHH / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004891#pinkHH;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>khakiHH / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:771#khakiHH;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blackBB / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:193#blackBB;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>orangeBB / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:691#orangeBB;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>navyBB / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004890#navyBB;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>whiteHH / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:175#whiteHH;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>yellowHH / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004889#yellowHH;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>brownBB / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200001438#brownBB;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blueBB / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:350852#blueBB;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>greenBB / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:496#greenBB;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>pinkHH / XXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004891#pinkHH;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>khakiHH / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:771#khakiHH;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blackBB / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:193#blackBB;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>orangeBB / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:691#orangeBB;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>navyBB / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004890#navyBB;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>whiteHH / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:175#whiteHH;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>yellowHH / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004889#yellowHH;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>brownBB / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200001438#brownBB;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>blueBB / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:350852#blueBB;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>greenBB / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:496#greenBB;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777541062879</id>
+      <title>pinkHH / XXXL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>14:200004891#pinkHH;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoppoverse.com/products/7777528283359</id>
+    <published>2022-06-28T22:45:32+05:30</published>
+    <updated>2022-06-28T22:45:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://shoppoverse.com/products/american-fashion-hot-selling-skeleton-printing-anime-men-women-long-sleeved-zipper-hoodie-jacket-loose-streetwear-y2k-pullover"/>
+    <title>American Fashion Hot-selling Skeleton Printing Anime Men Women Long-sleeved Zipper Hoodie Jacket Loose Streetwear Y2K Pullover</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>shoppoverse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0653/5246/6655/products/H00e9e1299b9e456e9ef2fa345aa7d1bf1.jpg?v=1656436582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>shoppoverse<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Price: </strong>
+            23.99 - 32.99
+            <a href="https://shoppoverse.com/products/american-fashion-hot-selling-skeleton-printing-anime-men-women-long-sleeved-zipper-hoodie-jacket-loose-streetwear-y2k-pullover">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>SPECIFICATIONS</h1><p><span>Weight</span>: <span style="color:#333">0.35</span></p><p><span>Type</span>: <span style="color:#333">Pullovers</span></p><p><span>Thickness</span>: <span style="color:#333">STANDARD</span></p><p><span>Style</span>: <span style="color:#333">Casual</span></p><p><span>Sleeve Style</span>: <span style="color:#333">Regular</span></p><p><span>Sleeve Length(cm)</span>: <span style="color:#333">Full</span></p><p><span>Season</span>: <span style="color:#333">Winter</span></p><p><span>Release Date</span>: <span style="color:#333">Winter 2021</span></p><p><span>Pattern Type</span>: <span style="color:#333">Cartoon</span></p><p><span>Origin</span>: <span style="color:#333">CN(Origin)</span></p><p><span>Model Number</span>: <span style="color:#333">women hoodies</span></p><p><span>Material Composition</span>: <span style="color:#333">Synthetic fiber</span></p><p><span>Material</span>: <span style="color:#333">Polyester</span></p><p><span>Material</span>: <span style="color:#333">Cotton</span></p><p><span>Item Type</span>: <span style="color:#333">Hoodies</span></p><p><span>Hooded</span>: <span style="color:#333">No</span></p><p><span>Gender</span>: <span style="color:#333">WOMEN</span></p><p><span>Fabric content</span>: <span style="color:#333">30% and below</span></p><p><span>Fabric Type</span>: <span style="color:#333">Cotton</span></p><p><span>Collar</span>: <span style="color:#333">O-Neck</span></p><p><span>Clothing Patterns</span>: <span style="color:#333">Straight</span></p><p><span>Clothing Length</span>: <span style="color:#333">Regular</span></p><p><span>Brand Name</span>: <span style="color:#333">HIZILENT</span></p><p><span>Age</span>: <span style="color:#333">Ages 18-35 Years Old</span></p><div class="detailmodule_html"><div class="detail-desc-decorate-richtext">
+<div>
+ <p><strong><span style='font-size:22px;font-family:"color:#d33115;'>Dear friend, please check the size before placing the order. Please note that our size </span></strong></p>
+ <div>
+  <br>
+ </div>
+ <p><strong><span style='font-size:22px;font-family:"color:#d33115;'>is Asian size, usually smaller than European size or American size...Thank you for </span></strong></p>
+ <div>
+  <br>
+ </div>
+ <p><strong><span style='font-size:22px;font-family:"color:#d33115;'>your cooperation and good luck！</span></strong></p>
+ <p><img src="https://ae01.alicdn.com/kf/Hbd2f18192141451bb9e7fbb799707343Q.jpg" slate-data-type="image"></p>
+ <p style="text-align:center;" align="center">     </p>
+ <p style="text-align:center;" align="center"><strong> </strong><span style="font-size:26px;color:;"><strong>Skull clothes size</strong></span></p>
+ <div>
+  <br>
+ </div>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:"color:#000000;'><strong>SIZE TABLE</strong></span></p>
+ <div align="center">
+  <table class="MsoNormalTable" style="border-top:medium none;border-right:medium none;border-collapse:collapse;border-bottom:medium none;border-left:medium none;" cellspacing="0" border="1">
+   <tbody>
+    <tr>
+     <td style="width:50.6pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="67"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'><strong>Size</strong></span></p></td>
+     <td style="width:79.05pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'><strong>Length</strong></span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'><strong>Bust</strong></span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'><strong>Sleeve</strong></span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'><strong>Shoulder</strong></span></p></td>
+    </tr>
+    <tr>
+     <td style="width:50.6pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="67"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>M</span></p></td>
+     <td style="width:79.05pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>65</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>112</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>52</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>54</span></p></td>
+    </tr>
+    <tr>
+     <td style="width:50.6pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="67"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>L</span></p></td>
+     <td style="width:79.05pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>66</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>116</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>53</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>56</span></p></td>
+    </tr>
+    <tr>
+     <td style="width:50.6pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="67"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>XL</span></p></td>
+     <td style="width:79.05pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>67</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>120</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>54</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>58</span></p></td>
+    </tr>
+    <tr>
+     <td style="width:50.6pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="67"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>2XL</span></p></td>
+     <td style="width:79.05pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>68</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>124</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>55</span></p></td>
+     <td style="width:79pt;padding-bottom:0pt;padding-top:0pt;padding-left:0pt;padding-right:0pt;" width="105"><p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:";'>60</span></p></td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <div>
+  <br>
+ </div>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:"color:#000000;background-color:#ffffff;'>Dimensional tiling due to different measurement methods will have a 2-</span></p>
+ <div>
+  <br>
+ </div>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:"color:#000000;background-color:#ffffff;'>-4cm error [Unit of measurement: cm / CM]</span></p>
+ <div>
+  <br>
+ </div>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:"color:#c00000;'><strong>The size of the clothes is Asian, and the overall size is small.</strong></span></p>
+ <div>
+  <br>
+ </div>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:"color:#c00000;'><strong>It is recommended to choose a size larger than the appropriate size </strong></span></p>
+ <div>
+  <br>
+ </div>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:"color:#c00000;'><strong>when purchasing.</strong></span></p>
+ <br>
+ <br> 
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style='font-size:26px;font-family:"color:#000000;'><strong>Black Clothes size</strong></span></p>
+ <br>
+ <span style='font-size:26px;font-family:"color:#c00000;'><strong></strong></span> 
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><img src="https://ae01.alicdn.com/kf/S73125227e85d47c5b621c4b2554372cbf.jpg" slate-data-type="image"></p>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"><span style="font-size:26px;"></span> </p>
+ <p class="p" style="padding-bottom:0pt;text-align:center;padding-top:0pt;padding-left:0em;margin:0pt;padding-right:0pt;background-color:#ffffff;" align="center"> </p>
+ <div>
+  <span style="font-size:26px;"><strong>Monsters Clothing Size</strong></span>
+  <br>
+ </div>
+ <p><br></p>
+ <p><img style="width:1093px;" src="https://ae01.alicdn.com/kf/S0b01ed04a1c248fca83942670e131e02l.jpg"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H48d51000dc434cd9bef0e9e8fe14925cS.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H8fc6a26d2ead46d7bbd0c6d26a520399V.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/Hd13da9128eaa4af899a8f7d60e4149b5F.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/Hc1261f8de2e745009d74b97d2fd47fc1c.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H30b15bea30ac47fabef94bc1532b1e67e.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H47b61aa8d50949d6a4b0958a0efef4e23.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><br></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H281daf37d8e74d3489bdd2d7d2f5bd2eV.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/He462668d1c474548bf8740dcc994d831j.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H7ab7638e10894f91a8928fc15a82adf7t.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H2280e1fce7aa459baf56c0a0d5d8e9e0a.jpg" width="800" slate-data-type="image"></p>
+ <p class="detailmodule_html" style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H716b0a42e5ad49058053a578b01231a1C.jpg" width="800" slate-data-type="image"></p>
+ <p style="text-align:center;" align="center"><img style="width:800px;" src="https://ae01.alicdn.com/kf/H5a974b32a5fb4125b29c9a817b9a13b4b.jpg" width="800" slate-data-type="image"></p>
+</div>
+<p style="text-align:center;" align="center"><br></p>
+</div></div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Pure Black Clothes / S</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:771#Pure Black Clothes;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Asian Size / S</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14:193#Black Asian Size;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Blue Asian Size / S</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14:173#Blue Asian Size;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Asian Size / S</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14:29#White Asian Size;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Monster / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200006159#White Monster;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Monster / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004870#Black Monster;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Grey Monster / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:203192887#Grey Monster;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Pure Black Clothes / M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:771#Pure Black Clothes;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Asian Size / M</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:193#Black Asian Size;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Blue Asian Size / M</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:173#Blue Asian Size;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Asian Size / M</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:29#White Asian Size;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Monster / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200006159#White Monster;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Monster / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004870#Black Monster;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Grey Monster / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:203192887#Grey Monster;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Pure Black Clothes / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:771#Pure Black Clothes;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Asian Size / L</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:193#Black Asian Size;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Blue Asian Size / L</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:173#Blue Asian Size;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Asian Size / L</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:29#White Asian Size;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Monster / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200006159#White Monster;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Monster / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004870#Black Monster;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Grey Monster / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:203192887#Grey Monster;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Pure Black Clothes / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:771#Pure Black Clothes;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Asian Size / XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:193#Black Asian Size;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Blue Asian Size / XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:173#Blue Asian Size;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Asian Size / XL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:29#White Asian Size;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Monster / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200006159#White Monster;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Monster / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004870#Black Monster;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Grey Monster / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:203192887#Grey Monster;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Pure Black Clothes / XXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>14:771#Pure Black Clothes;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Asian Size / XXL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:193#Black Asian Size;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Blue Asian Size / XXL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:173#Blue Asian Size;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Asian Size / XXL</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>14:29#White Asian Size;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>White Monster / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200006159#White Monster;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Black Monster / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:200004870#Black Monster;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoppoverse.com/products/7777528283359</id>
+      <title>Grey Monster / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14:203192887#Grey Monster;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
